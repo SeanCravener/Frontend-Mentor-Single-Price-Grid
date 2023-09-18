@@ -5,7 +5,7 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 ### Links
 
 - Solution URL: [Github](https://github.com/SeanCravener/frontend-mentor-challenges/tree/main/level-1/single-price-grid)
-- Live Site URL: [CodePen](https://codepen.io/Beelzeboss92/pen/ExppELE)
+- Live Site URL: [Github Pages](https://seancravener.github.io/Frontend-Mentor-Single-Price-Grid/)
 
 ## Author
 
